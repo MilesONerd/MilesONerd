@@ -1,6 +1,6 @@
 - Hi, I’m @MilesONerd 
 - I’m interested in AI
-- I’m currently learning Technologies
+- I’m currently learning things about Technologies
 
 <!---
 Enzo Fuke/MilesONerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
