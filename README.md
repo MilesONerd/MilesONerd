@@ -1,4 +1,4 @@
-- Hi, I’m @MilesONerd 
+- Hi, I’m @MilesONerd or Enzo Fuke 
 - I’m interested in AI
 - I’m currently learning things about Technologies
 
