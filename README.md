@@ -17,3 +17,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+<div>
+  <a href="https://facebook.com/enzocfuke" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
+</div>
