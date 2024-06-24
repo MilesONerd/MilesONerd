@@ -31,6 +31,12 @@
 
 ##
 
+Code versioning:
+
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
+
+##
+
 Operational system:
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
@@ -40,12 +46,6 @@ Operational system:
 Browser:
 
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="blank">
-
-##
-
-Code versioning:
-
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
 
 ##
 
