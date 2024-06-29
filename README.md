@@ -22,7 +22,7 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/D-Mass-RR/D-Mass-RR/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
 
 ##
 <div>
