@@ -18,7 +18,7 @@
 
 ##
 
-<div>
+<div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="blank">
   <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" target="blank">
   <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" target="blank">
@@ -29,7 +29,7 @@
 ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<div>
+<div align="center">
     <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
   <a href="https://facebook.com/enzocfuke" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="blank"></a>
   <a href="https://instagram.com/enzo_fuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
@@ -43,7 +43,7 @@
 
 IDE:
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="blank">
 </div>
@@ -52,24 +52,30 @@ IDE:
 
 Code versioning:
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
+<div align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
+</div>
 
 ##
 
 Operational system:
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
+</div>
 
 ##
 
 Browser:
 
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="blank">
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="blank">
+</div>
 
 ##
 
 Software:
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target="blank">
@@ -81,7 +87,7 @@ Software:
 
 Music Streaming:
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="blank">    
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
