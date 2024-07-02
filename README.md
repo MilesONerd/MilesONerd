@@ -12,7 +12,9 @@
 
 ##
 
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" />
+</div>
 
 ##
 
