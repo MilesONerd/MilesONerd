@@ -25,8 +25,9 @@
 </div>
 
 
-
-![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ##
 <div align="center">
