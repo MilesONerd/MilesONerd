@@ -1,7 +1,12 @@
 <h1 align="center">
   Hi, there!🤖💻
-
 </h1>
+
+<div align="center">
+  <img src="https://github.com/MilesONerd/MilesONerd/assets/150525657/c0977dc8-bafd-4621-bca4-9c58fb1b72dd" />
+</div>
+
+##
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
