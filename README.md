@@ -1,7 +1,10 @@
-- Hi, I’m @MilesONerd or Enzo Fuke 
-- I’m interested in AI
-- I’m currently learning things about Technologies
-- I'm programming in Python
+- Hi there!
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Enzo+Fuke!...;A+Back-end+Developer+...;and+AI+Enthusiast...;Always+learning+about+technology...;Using+mostly+Python+!&center=true&size=20" alt="Typing SVG" />
+  </a>
+</h1>
 
   <img align="center" alt="Enzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
