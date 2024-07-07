@@ -110,7 +110,9 @@ Music Streaming:
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
 </div>
 
-[![Enzo Fuke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" />
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MilesONerd/count.svg" alt="Profile Views" />
