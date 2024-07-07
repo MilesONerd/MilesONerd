@@ -114,10 +114,6 @@ Music Streaming:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MilesONerd/count.svg" alt="Profile Views" />
-</div>
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
