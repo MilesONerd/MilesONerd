@@ -23,6 +23,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula">
 </div>
 
 ##
