@@ -134,10 +134,10 @@ Music Streaming:
   <img src="https://komarev.com/ghpvc/?username=MilesONerd" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9522e890-a955-4e67-a37e-51de1fdd1a34"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
