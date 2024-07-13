@@ -52,7 +52,7 @@ My favorite language:
 
 ##
 <div align="center">
-    <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
+  <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
   <a href="https://instagram.com/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
@@ -119,7 +119,7 @@ Music Streaming:
 <details open>
     <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quotes card">
     </a>
 </details>
 </div>
