@@ -146,7 +146,7 @@ Music Streaming:
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MilesONerd" />
+  <img src="https://badges.strrl.dev/visits/MilesONerd/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000" />
 </div>
 
 <div align="center">
