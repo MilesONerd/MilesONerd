@@ -33,11 +33,16 @@
 ##
 
 <div align="center">
-        <img alt="github repos" src="https://badges.strrl.dev/repos/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-        <img alt="commits today" src="https://badges.strrl.dev/commits/daily/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-        <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-        <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-        <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="commits today" src="https://badges.strrl.dev/commits/daily/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+</div>
+
+##
+
+<div align="center">
+  <img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
 </div>
 
 ##
