@@ -47,6 +47,12 @@
   <img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
 </div>
 
+# Trophies:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
 ##
 
 <div align="center">
