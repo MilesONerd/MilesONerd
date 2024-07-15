@@ -32,6 +32,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula">
 </div>
 
+# Contributions:
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MilesONerd&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</div>
+
 ##
 
 <div align="center">
