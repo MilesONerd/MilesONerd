@@ -6,7 +6,7 @@
   <img src="https://github.com/MilesONerd/MilesONerd/assets/150525657/c0977dc8-bafd-4621-bca4-9c58fb1b72dd" />
 </div>
 
-##
+---
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -53,7 +53,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
-##
+---
 
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="blank">
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </div>
 
-##
+---
 
   ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
 
@@ -193,7 +193,7 @@
   <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
 </div>
 
-##
+---
 
 <div align="center">
 <h2>Quote of the day</h2>
@@ -205,7 +205,7 @@
 </details>
 </div>
 
-##
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" />
