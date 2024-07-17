@@ -31,14 +31,12 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MilesONerd&limit=5&theme=dracula&combine_all_yearly_contributions=true" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" /><br>
   <img alt="commits today" src="https://badges.strrl.dev/commits/daily/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
   <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
   <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-  <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-</div>
-
-<div align="center">
-  <br><img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/><br>
+  <img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
 </div>
 
 # Trophies:
@@ -91,10 +89,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </div>
-
----
-
-  ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
 
 # Social:
 
@@ -191,6 +185,10 @@
 
 ---
 
+  ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 <div align="center">
 <h2>Quote of the day</h2>
 <details open>
@@ -202,10 +200,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://badges.strrl.dev/visits/MilesONerd/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000" />
