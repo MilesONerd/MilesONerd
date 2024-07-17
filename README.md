@@ -17,14 +17,13 @@
 # GitHub Stats:
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=MilesONerd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilesONerd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-##
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesONerd&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilesONerd&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilesONerd&theme=dracula">
