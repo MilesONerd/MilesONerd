@@ -185,7 +185,9 @@
 
 ---
 
-  ![Snake animation](https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg)
+<div align=center">
+  <img src="https://raw.githubusercontent.com/MilesONerd/MilesONerd/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
