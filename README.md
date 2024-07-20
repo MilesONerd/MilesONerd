@@ -171,6 +171,16 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
+# Artificial Intelligence and Bots:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?logo=amazon%20alexa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dependabot-025E8C?logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/google%20assistant-4285F4?logo=google%20assistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=blue"/>
+</div>
+
 # Operational system:
 
 <div align="center">
