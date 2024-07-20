@@ -66,14 +66,17 @@
 # Social:
 
 <div align="center">
+  <a href="https://bsky.app/profile/theenzofuke.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
+  <a href="https://app.daily.dev/milesonerd" target="_blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" target="blank"></a>
   <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
   <a href="https://instagram.com/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://gitlab.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/gitlab-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
   <a href="https://milesonerd.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" target="blank"></a>
-  <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" target="blank"></a>
-  <a href="https://x.com/Theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" target="blank"></a>
+  <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="blank"></a>
+    <a href="https://threads.net/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="blank"></a>
+  <a href="https://x.com/Theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="blank"></a>
 </div>
 
 ---
