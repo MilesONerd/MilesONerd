@@ -176,6 +176,14 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
+# Domain Knownledge:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
+</div>
+
 # Artificial Intelligence and Bots:
 
 <div align="center">
