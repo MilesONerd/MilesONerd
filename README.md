@@ -224,7 +224,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="blank">    
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="blank">
-  <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
+  <img src="https://img.shields.io/badge/Deezer-7D4698?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
 </div>
 
 ---
