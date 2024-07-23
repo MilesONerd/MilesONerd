@@ -206,6 +206,12 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
 </div>
 
+# Microcomputer:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+</div>
+
 # Data Analytics Platform:
 
 <div align="center">
