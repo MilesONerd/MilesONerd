@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
 </div>
 
-# Some Git Tools:
+# CI/CD:
 
 <div align="center">
   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
