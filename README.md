@@ -164,17 +164,10 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-# Command shells::
+# Software-Hardware Integration:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</div>
-
-# Container:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
 # Domain Knownledge:
@@ -183,6 +176,25 @@
   <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
+</div>
+
+# Command shells::
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</div>
+
+# Microcomputer:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+</div>
+
+# Container:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 # Artificial Intelligence and Bots:
@@ -204,12 +216,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
-</div>
-
-# Microcomputer:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </div>
 
 # Data Analytics Platform:
