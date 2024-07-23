@@ -124,7 +124,10 @@
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SymPy-000000?style=for-the-badge&logo=sympy&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tkinter-239120?style=for-the-badge&logo=tkinter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vosk-239120?style=for-the-badge&logo=vosk&logoColor=white"/>
 </div>
 
 # IDE:
