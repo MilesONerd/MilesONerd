@@ -72,6 +72,7 @@
   <a href="https://instagram.com/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://gitlab.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/gitlab-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" target="blank"></a>
+  <a href="https://milesonerd.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
   <a href="https://milesonerd.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" target="blank"></a>
   <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="blank"></a>
