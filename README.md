@@ -172,6 +172,12 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+# Cloud:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</div>
+
 # Software-Hardware Integration:
 
 <div align="center">
