@@ -67,7 +67,7 @@
 
 <div align="center">
   <a href="https://milesonerd.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank"></a>
-</div
+</div>
 
 # Social:
 
