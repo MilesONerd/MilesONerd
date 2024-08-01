@@ -141,6 +141,12 @@
   <img src="https://img.shields.io/badge/Vosk-239120?style=for-the-badge&logo=vosk&logoColor=white"/>
 </div>
 
+# Import Python Libraries:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</div>
+
 # IDE:
 
 <div align="center">
