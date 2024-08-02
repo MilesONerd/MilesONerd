@@ -63,13 +63,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
-# Website:
+# WEBSITE:
 
 <div align="center">
   <a href="https://milesonerd.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank"></a>
 </div>
 
-# Social:
+# SOCIAL:
 
 <div align="center">
   <a href="https://bsky.app/profile/theenzofuke.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
