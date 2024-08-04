@@ -63,6 +63,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
+---
+
 # WEBSITE:
 
 <div align="center">
@@ -94,6 +96,8 @@
   <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" target="blank">
   <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" target="blank">
 </div>
+
+---
 
 # My favorite programming language:
 
@@ -146,6 +150,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
 </div>
+
+---
 
 # IDE:
 
@@ -231,6 +237,8 @@
    <a href="https://hub.docker.com/u/milesonerd" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="blank"></a>
 </div>
 
+---
+
 # Artificial Intelligence and Bots:
 
 <div align="center">
@@ -278,12 +286,16 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" target="blank">
 </div>
 
+---
+
 # Design:
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>  
 </div>
+
+---
 
 # Music Streaming:
 
