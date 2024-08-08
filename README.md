@@ -110,6 +110,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -149,6 +150,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</div>
+
+# Frameworks:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
 ---
@@ -204,21 +211,6 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
-# Domain Knownledge:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
-</div>
-
-# Command shells::
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</div>
-
 # Microcomputer:
 
 <div align="center">
@@ -235,6 +227,21 @@
 
 <div align="center">
    <a href="https://hub.docker.com/u/milesonerd" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="blank"></a>
+</div>
+
+# Command shells::
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</div>
+
+# Domain Knownledge:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
 </div>
 
 ---
