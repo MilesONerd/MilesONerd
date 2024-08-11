@@ -75,6 +75,7 @@
 
 <div align="center">
   <a href="https://bsky.app/profile/theenzofuke.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
+  <a href="https://codepen.io/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="blank"></a>
   <a href="https://app.daily.dev/milesonerd" target="_blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" target="blank"></a>
   <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
   <a href="https://instagram.com/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
