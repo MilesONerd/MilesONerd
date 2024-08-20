@@ -74,11 +74,11 @@
 # SOCIAL:
 
 <div align="center">
-  <a href="https://bsky.app/profile/theenzofuke.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
+  <a href="https://bsky.app/profile/milesonerd.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
   <a href="https://codepen.io/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="blank"></a>
   <a href="https://app.daily.dev/milesonerd" target="_blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" target="blank"></a>
   <a href="https://dev.to/milesonerd" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="blank"></a>
-  <a href="https://instagram.com/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://instagram.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://gitlab.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/gitlab-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" target="blank"></a>
   <a href="https://milesonerd.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="blank"></a>
@@ -86,9 +86,9 @@
   <a href="https://mastodon.social/@milesonerd" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-2962FF?style=for-the-badge&logo=mastodon&logoColor=white" target="blank">
   <a href="https://milesonerd.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" target="blank"></a>
   <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="blank"></a>
-    <a href="https://threads.net/theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="blank"></a>
+    <a href="https://threads.net/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="blank"></a>
     <a href="https://www.twitch.tv/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
-  <a href="https://x.com/Theenzofuke_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="blank"></a>
+  <a href="https://x.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="blank"></a>
 </div>
 
 ---
