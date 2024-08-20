@@ -89,6 +89,7 @@
     <a href="https://threads.net/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="blank"></a>
     <a href="https://www.twitch.tv/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
   <a href="https://x.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="blank"></a>
+  <a href="https://youtube.com/@MilesONerd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target ="blank"></a>
 </div>
 
 ---
