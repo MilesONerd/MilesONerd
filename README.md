@@ -74,7 +74,7 @@
 # SOCIAL:
 
 <div align="center">
-  <a href="https://behance.net/MilesONerd" target="_blank"<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="blank"></a>
+  <a href="https://behance.net/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="blank"></a>
   <a href="https://bsky.app/profile/milesonerd.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="blank"></a>
   <a href="https://codepen.io/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="blank"></a>
   <a href="https://app.daily.dev/milesonerd" target="_blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" target="blank"></a>
