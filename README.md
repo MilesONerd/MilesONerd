@@ -214,6 +214,8 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
+---
+
 # Prototyping Platforms:
 
 <div align="center">
@@ -228,6 +230,8 @@
   <a href="https://www.postman.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="blank"></a>
 </div>
 
+---
+
 # Container:
 
 <div align="center">
@@ -239,6 +243,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
+
+---
 
 # Command shells::
 
@@ -279,6 +285,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="blank">
 </div>
 
+---
+
 # Data Analytics Platform:
 
 <div align="center">
@@ -290,6 +298,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 </div>
+
+---
 
 # Browser:
 
