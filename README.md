@@ -83,6 +83,7 @@
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://gitlab.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/gitlab-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" target="blank"></a>
   <a href="https://milesonerd.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="blank"></a>
+  <a href="https://huggingface.co/milesonerd" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
   <a href="https://mastodon.social/@milesonerd" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-2962FF?style=for-the-badge&logo=mastodon&logoColor=white" target="blank">
   <a href="https://milesonerd.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" target="blank"></a>
@@ -144,6 +145,8 @@
   <img src="https://img.shields.io/badge/Tkinter-239120?style=for-the-badge&logo=tkinter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vosk-239120?style=for-the-badge&logo=vosk&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </div>
 
 # Import Python Libraries:
@@ -199,6 +202,7 @@
 # Cloud:
 
 <div align="center">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
@@ -279,6 +283,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</div>
+
+# Analytics:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 </div>
 
 # Browser:
