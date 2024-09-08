@@ -85,7 +85,6 @@
   <a href="https://milesonerd.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="blank"></a>
   <a href="https://huggingface.co/milesonerd" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=white" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
-  <a href="https://mastodon.social/@milesonerd" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-2962FF?style=for-the-badge&logo=mastodon&logoColor=white" target="blank">
   <a href="https://milesonerd.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" target="blank"></a>
   <a href="https://www.quora.com/profile/Enzo-Fuke" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="blank"></a>
   <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="blank"></a>
