@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, there!🤖💻☕ :octocat:
+  Hi, there!🤖💻☕
 </h1>
 
 <div align="center">
