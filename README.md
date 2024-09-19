@@ -83,7 +83,6 @@
   <a href="https://huggingface.co/milesonerd" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=white" target="blank"></a>
   <a href="https://kaggle.com/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="blank"></a>
   <a href="https://fosstodon.org/@MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" target="blank"></a>
-  <a href="https://www.quora.com/profile/Enzo-Fuke" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="blank"></a>
   <a href="https://stackoverflow.com/users/26412577" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="blank"></a>
     <a href="https://threads.net/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" target="blank"></a>
     <a href="https://www.twitch.tv/milesonerd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
