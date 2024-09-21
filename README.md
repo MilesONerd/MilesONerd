@@ -2,12 +2,6 @@
   Hi, there!🤖💻☕
 </h1>
 
-<div align="center">
-  <img src="https://github.com/MilesONerd/MilesONerd/assets/150525657/c0977dc8-bafd-4621-bca4-9c58fb1b72dd" />
-</div>
-
----
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Enzo+Fuke+!+...;A+Full+Stack+Developer+...;AI+Enthusiast+...;And+Cybersecurity+worshiper+...;Always+learning+about+technology+...;And+Love+Python+!&center=true&size=20" alt="Typing SVG" />
