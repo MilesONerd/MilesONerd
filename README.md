@@ -68,7 +68,6 @@
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="blank">
   <img src="http://ForTheBadge.com/images/badges/built-with-science.svg" target="blank">
-  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" target="blank">
 </div>
 
 ---
