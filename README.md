@@ -8,6 +8,12 @@
   </a>
 </h1>
 
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=If+it+hasn't+worked+out+yet+,+...;It's+because+it's+not+over+yet+...&center=true&size=20" alt="Typing SVG" />
+  </a>
+</h2>
+
 # GitHub Stats:
 
 <div align="center">
