@@ -56,6 +56,7 @@
 # SOCIAL:
 
 <div align="center">
+  <a href="https://codeberg.org/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" target="blank"></a>
   <a href="https://github.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="blank"></a>
   <a href="https://gitlab.com/MilesONerd" target="_blank"><img src="https://img.shields.io/badge/gitlab-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=orange" target="blank"></a>
   <a href="https://huggingface.co/milesonerd" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=white" target="blank"></a>
