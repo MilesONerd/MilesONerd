@@ -346,7 +346,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7fbd7bd9-0816-4ecd-928a-5b742ea2d88d"/>
+  <img src="https://github.com/user-attachments/assets/9b77077f-dd34-4d6b-905f-f66fed48d414"/>
 </div>
 
 <div align="center">
