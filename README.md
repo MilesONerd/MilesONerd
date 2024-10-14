@@ -45,6 +45,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
+# Programming Time:
+
+<div align="center">
+  <a href="https://wakatime.com/@4d1cf93c-8ba2-425c-9a3d-7c085cb400ab" target="_blank"><img src="https://wakatime.com/badge/user/4d1cf93c-8ba2-425c-9a3d-7c085cb400ab.svg" target="blank"></a>
+</div>
+
 ---
 
 # WEBSITE:
