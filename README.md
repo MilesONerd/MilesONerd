@@ -45,6 +45,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
+---
+
 # Programming Time:
 
 <div align="center">
