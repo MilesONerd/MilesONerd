@@ -24,7 +24,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilesONerd&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilesONerd&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilesONerd&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesONerd&layout=pie&theme=dracula">
 </div>
 
 # Contributions:
