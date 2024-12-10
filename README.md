@@ -14,38 +14,6 @@
   </a>
 </h2>
 
-# GitHub Stats:
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MilesONerd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilesONerd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesONerd&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilesONerd&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilesONerd&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilesONerd&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesONerd&layout=pie&theme=dracula">
-</div>
-
-# Contributions:
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MilesONerd&limit=5&theme=dracula&combine_all_yearly_contributions=true" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" /><br>
-  <img alt="commits today" src="https://badges.strrl.dev/commits/daily/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-  <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-  <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-  <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/><br>
-  <img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
-</div>
-
-# Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
 ---
 
 # ORCID ID:
@@ -64,14 +32,6 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0000-1734-5150
   </a>
-</div>
-
----
-
-# Programming Time:
-
-<div align="center">
-  <a href="https://wakatime.com/@4d1cf93c-8ba2-425c-9a3d-7c085cb400ab" target="_blank"><img src="https://wakatime.com/badge/user/4d1cf93c-8ba2-425c-9a3d-7c085cb400ab.svg" target="blank"></a>
 </div>
 
 ---
@@ -106,31 +66,11 @@
 </div>
 
 ---
-# Languages:
 
-### Dominant:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-</div>
-
-### Complementary: 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</div>
+<details>
+  <summary>
+    <h1>Languages:</h1>
+  </summary>
 
 ## Programming Languages:
 
@@ -166,6 +106,30 @@
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+</div>
+
+### Dominant:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+</div>
+
+### Complementary: 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 ---
@@ -211,42 +175,14 @@
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </div>
 
----
-
-## Import Python and JavaScript Libraries:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</div>
+</details>
 
 ---
 
-# IDE:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="blank">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="blank">
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="blank">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="blank">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="blank">
-</div>
-
-# Code versioning:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
-</div>
-
-# CI/CD:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange"/>
-</div>
-
----
+<details>
+  <summary>
+    <h1>Databases:</h1>
+  </summary>
 
 # SQL Database:
 
@@ -264,6 +200,30 @@
   <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+</details>
+
+---
+
+# Domain Knownledge:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
+</div>
+
+---
+
+# IDE:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="blank">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="blank">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="blank">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="blank">
 </div>
 
 ---
@@ -284,13 +244,21 @@
 
 ---
 
-# Prototyping Platforms:
+# Code versioning:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="blank">
 </div>
+
+# CI/CD:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange"/>
+</div>
+
+---
 
 # Creating APIs:
 
@@ -300,62 +268,21 @@
 
 ---
 
-# Container:
+## Import Python and JavaScript Libraries:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-
-# Container Orchestration
-
-<div align="center">
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </div>
 
 ---
 
-# Command shells:
+<details>
+  <summary>
+    <h1>Operational System and Tools:</h1>
+  </summary>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</div>
-
----
-
-# Security Tools:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-</div>
-
----
-
-# Domain Knownledge:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white"/>
-</div>
-
----
-
-# Artificial Intelligence and Bots:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?logo=amazon%20alexa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dependabot-025E8C?logo=dependabot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/google%20assistant-4285F4?logo=google%20assistant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=blue"/>
-</div>
-
----
-
-# Operational system:
+# Operational System:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="blank">
@@ -376,21 +303,20 @@
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
 </div>
 
----
-
-# Data Analytics Platform:
+# Command shells:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </div>
 
-# Analytics:
+# Security Tools:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </div>
-
----
 
 # Browser:
 
@@ -411,6 +337,72 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" target="blank">
 </div>
 
+</details>
+
+---
+
+<details>
+  <summary>
+    <h1>Container Tools:</h1>
+  </summary>
+
+# Container:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+# Container Orchestration
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</div>
+
+</details>
+
+---
+
+<details>
+  <summary>
+    <h1>Analytics</h1>
+  </summary>
+
+# Data Analytics Platform:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</div>
+
+# Analytics:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+</div>
+
+</details>
+
+---
+
+# Prototyping Platforms:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+</div>
+
+---
+
+# Artificial Intelligence and Bots:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?logo=amazon%20alexa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dependabot-025E8C?logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/google%20assistant-4285F4?logo=google%20assistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=blue"/>
+</div>
+
 ---
 
 # Design:
@@ -429,6 +421,53 @@
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="blank">
   <img src="https://img.shields.io/badge/Deezer-7D4698?style=for-the-badge&logo=deezer&logoColor=white" target="blank">
 </div>
+
+---
+
+<details>
+  <summary>
+    <h1>Stats:</h1>
+  </summary>
+
+# GitHub Stats:
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MilesONerd&count_private=true&theme=dracula&title_color=000117" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MilesONerd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilesONerd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilesONerd&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilesONerd&theme=dracula"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesONerd&layout=pie&theme=dracula">
+</div>
+
+# Contributions:
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MilesONerd&limit=5&theme=dracula&combine_all_yearly_contributions=true" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesONerd&bg_color=20232A&color=57BCDA&line=57BCDA&point=0b7e9e&area=true&hide_border=true" /><br>
+  <img alt="commits today" src="https://badges.strrl.dev/commits/daily/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+  <img alt="all commits" src="https://badges.strrl.dev/commits/all/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/><br>
+  <img src="https://badges.strrl.dev/years/MilesONerd?color=000000&style=for-the-badge&labelColor=FF0000"/>
+</div>
+
+# Trophies:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MilesONerd&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
+# Programming Time:
+
+<div align="center">
+  <a href="https://wakatime.com/@4d1cf93c-8ba2-425c-9a3d-7c085cb400ab" target="_blank"><img src="https://wakatime.com/badge/user/4d1cf93c-8ba2-425c-9a3d-7c085cb400ab.svg" target="blank"></a>
+</div>
+
+</details>
 
 ---
 
